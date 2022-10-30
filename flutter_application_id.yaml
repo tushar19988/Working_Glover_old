@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.mangoomarket"
+    name: "Mangoo Market"
+  ios:
+    id: "com.mangoomarket"
+    name: "Mangoo Market"

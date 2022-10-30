@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "777610254962",
+    "project_id": "mangoo-6ed2f",
+    "storage_bucket": "mangoo-6ed2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777610254962:android:7ed486c1d1d0f2df0cc0eb",
+        "android_client_info": {
+          "package_name": "com.mangoomarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777610254962-4ce6j85vi4ci2iui680ujrlorfdapc7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mangoomarket",
+            "certificate_hash": "2ffd9b1f73e1e1e93e6bf5471e1b91debd1416c3"
+          }
+        },
+        {
+          "client_id": "777610254962-eh7qocfe8k935vksnb8ck8htb69aqend.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfk6NZ-yDW7lUwFvI7xQu-HcAaEu1VYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777610254962-eh7qocfe8k935vksnb8ck8htb69aqend.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "777610254962-igfutp7dhmr9iqteruaumf0f2as758g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mango.market"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
